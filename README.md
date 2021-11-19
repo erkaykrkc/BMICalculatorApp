@@ -1,3 +1,3 @@
 # BMI Calculator App (w) Flutter
 
-![Alt Text](https://ezgif.com/video-to-gif/ezgif-7-86faf6c14c7e.mp4)
+<img src="ezgif.com-gif-maker.mp4" width="40" height="40" />
