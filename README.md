@@ -1,4 +1,4 @@
 # BMI Calculator App (w) Flutter
 
-![Hnet com-image](https://user-images.githubusercontent.com/50543193/142552288-6db655c4-e78d-447c-9512-cc49c4f93857.gif)
+![Hnet com-image (1)](https://user-images.githubusercontent.com/50543193/142552605-cdea32ed-b8ed-4093-88c6-4e9ea2e323e3.gif)
 
